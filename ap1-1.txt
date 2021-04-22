@@ -1,0 +1,7 @@
+git status para verificar os arquivos que estao na pasta e para verificar as alteracões feitas
+
+git add . para adicionas o novo arquivo modificado e as atualizacões de outros arquivos da pasta
+
+git commit -m "ap1 completa" para fechar a solicitacão e adicionar uma etiqueta
+
+git push para enviar as atualizacões
