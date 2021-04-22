@@ -1,0 +1,16 @@
+git init para abrir um repositorio local
+
+git branch -M main para definir qual a minha branch de adiministracão
+
+git status para verificar quais arquivos estão inclusos no repsitorio
+
+git clone https://github.com/Eniohenrique250/AvaliacaoAp1.git
+para sincronizar o repositorio local com do github
+
+cd avaliacaoAp1 para abrir a pasta onde esta o arquivo que quero mandar
+
+git add . para adicionar todos os aquivos da pasta para uma "sacola" para ser enviado
+
+git commit -m "Ap1" para fechar a "sacola" e adicionar uma etiqueta descrevendo o que estou mandando
+
+git push para enviar os arquivos para o repositorio no git hub
